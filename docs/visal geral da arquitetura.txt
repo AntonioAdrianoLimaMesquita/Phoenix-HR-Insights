@@ -1,0 +1,18 @@
+                        Phoenix HR Insights
+
+                    +-----------------------+
+                    |     Power BI          |
+                    | Executive Dashboard   |
+                    +-----------+-----------+
+                                |
+                         Modelo Dimensional
+                                |
+      -----------------------------------------------------
+      |        |        |        |        |        |        |
+ Funcionário Tempo   Cargo   Área   Gestor  Localidade  Calendário
+      |                                         |
+      ---------------- Fato_RH ------------------
+                       |
+        Admissão | Desligamento | Promoção
+        Salário | PLR | Avaliação
+        Absenteísmo | Horas Extras
