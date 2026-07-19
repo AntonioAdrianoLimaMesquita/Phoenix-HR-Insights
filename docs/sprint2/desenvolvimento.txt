@@ -1,0 +1,15 @@
+Phoenix-HR-Insights
+│
+├── python
+│   ├── config.py
+│   ├── generator.py
+│   ├── dimensions.py
+│   ├── facts.py
+│   ├── export_sql.py
+│   └── main.py
+│
+├── data
+│
+├── sql
+│
+└── powerbi
